@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Mini Ürün Kataloğu",
+    "slug": "hafta6-urun-katalogu",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "urunkatalogu",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router"
+    ],
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    }
+  }
+}
